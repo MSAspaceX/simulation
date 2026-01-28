@@ -1,0 +1,5 @@
+{
+  "name": "Wave Interference Simulator",
+  "description": "An interactive physics simulation demonstrating interference and superposition of 2D circular waves using p5.js and React.",
+  "requestFramePermissions": []
+}
